@@ -2,7 +2,7 @@
 
 <h3 align="center">I love to turn ideas into code </h3>
 
-🔭 I’m currently working on Challenging Projects on [Freshly Cosmetics](https://www.freshlycosmetics.com)
+🔭 I’m currently working on Challenging Projects on [Fever](https://www.feverup.com)
 
 👯 I’m looking to collaborate on Anything That Sounds Challenging
 
